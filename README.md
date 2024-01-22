@@ -19,3 +19,4 @@ var studentID = "2345";
 | Pranjal | Technical designer |
 | Utkarsh | Programmer |
 | Falguni | Concept and 2D artist |
+| **Dreamerboy** | 3D Artist |
